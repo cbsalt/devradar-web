@@ -10,3 +10,8 @@ _This project was developed with the following technologies:_
 * [Node](https://nodejs.org/en/)
 * [Expo](https://expo.io/)
 * [React Native](https://reactnative.dev/)
+
+## Result :dart: 
+### Gif
+
+<p align="center">![](devradar-interface.gif)</p>
