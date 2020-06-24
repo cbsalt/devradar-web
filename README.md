@@ -14,4 +14,4 @@ _This project was developed with the following technologies:_
 ## Result :dart: 
 ### Gif
 
-<p align="center">![](devradar-interface.gif)</p>
+<p align="center"><img src="https://github.com/cbsalt/devradar-web/blob/master/src/assets/devradar-interface.gif"></p>
